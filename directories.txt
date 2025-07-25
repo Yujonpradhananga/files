@@ -1,0 +1,12 @@
+#keybindings directory
+code ~/.config/hypr/keybindings.conf 
+
+
+terminal logo:
+/home/djentgod/.config/fastfetch/logo/
+logo selection:
+/home/djentgod/.local/lib/hyde/fastfetch.sh (line 38 random function)
+
+
+waybar themes:
+/home/djentgod/.local/share/waybar/layouts/hyprdots

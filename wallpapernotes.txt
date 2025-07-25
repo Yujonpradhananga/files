@@ -1,0 +1,13 @@
+#my wallpapers in HyDe themes
+solarized dark-1(fanart)
+vanta black-1(ergo)
+catpuccin mocha-2(ta dota,flcl)
+catpuccin latte-5(artistic,bocchi,momo,sadako,dota)
+rose pine-1(malenia)
+tokyo night-3(momo running blue,lofi japan,raani er)
+graphite mono-2(momo kick,akane)
+edge runner-1(mizuho old lockscreen,nozomi)
+gruvbo retro-1(fanart eye)
+nordic blue-1(cm dota2)
+
+
